@@ -1,4 +1,1 @@
-make dev great again
 make git great 
-make ops great again
-make xll
